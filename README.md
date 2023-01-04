@@ -8,7 +8,7 @@
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/tomas-sousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gilberto-cunha-5401ab1b8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomasousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/tomasousa" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Languages and Tools:</h1>
