@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm Tomás Sousa👋</h1>
 <h3 align="center">A curious Data Scientist with a background in Engineering Physics Msc</h3>
 
-- 🔭 I’m currently working on BI4ALL
-- 🌱 I’m currently learning Kubernetes and Tensorflow 
+- 🔭 I’m currently working at Fyllo/Semasio
+- 🌱 I’m currently learning more about LLMs
 - 👯 I’m looking to collaborate on interesting ML Projects
 - 📫 You can reach me on trasousa@gmail.com
 
